@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\bin\Debug\net6.0\project8.exe
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\bin\Debug\net6.0\project8.deps.json
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\bin\Debug\net6.0\project8.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\bin\Debug\net6.0\project8.dll
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\bin\Debug\net6.0\project8.pdb
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.dll
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\refint\project8.dll
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.pdb
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\project8.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\arrays\Array-lab\project8\obj\Debug\net6.0\ref\project8.dll
