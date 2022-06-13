@@ -10,21 +10,19 @@ namespace project5
         {
             string[] input = Console.ReadLine().Split().ToArray();
             string[] output = new string[input.Length];
-            string[] buffer = new string[input.Length];
+            var temp = input[input.Length - 1];
 
-            for(int i = input.Length-1; i >= 0; i--)
+
+            for (int i = input.Length - 2; i >= 0; i--)
             {
-                output[i] = input[i];
-
-                for(int j = 0; j < buffer.Length; j++)
-                {
-                    buffer[j] = output[i];
-                }
+                output[i+1] = input[i];
             }
-            
-            for(int i = 0; i < buffer.Length; i++)
+
+            output[0] = temp;
+
+            for (int i = 0; i <= input.Length - 1; i++)
             {
-                Console.Write($"{buffer[i]} ");
+                Console.Write($"{output[i]} ");
             }
 
 
