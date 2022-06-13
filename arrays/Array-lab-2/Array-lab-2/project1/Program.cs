@@ -8,7 +8,14 @@ namespace project1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            int input = int.Parse(Console.ReadLine());
+            int Sum = 0;
+
+            for(int i = 0; i < input; i++)
+            {
+                Sum+= int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine(Sum);
         }
     }
 }
