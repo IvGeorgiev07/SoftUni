@@ -17,9 +17,15 @@ namespace project3
                 int[] temp = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
  
-                if (i + 1 % 2 == 0)
+                if (i % 2 == 0)
                 {
                     arr2[i] = temp[1];
+                    arr1[i] = temp[0];
+                }
+                else if (i % 2 != 0)
+                {
+                    arr2[i] = temp[0];
+                    arr1[i] = temp[1];
                 }
                 
             }
