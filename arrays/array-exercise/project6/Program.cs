@@ -13,30 +13,37 @@ namespace project6
             int mid = 0;
             int leftSum = 0;
             int rightSum = 0;
+            int output = 0;
 
             for (int i = 0; i < input.Length; i++)
             {
-                equalSum(counter, input, mid, leftSum, rightSum);
+                equalSum(ref counter, input, mid, leftSum, rightSum,ref output);
                 if (mid < input.Length - 1)
                 {
                     mid++;
                 }
             }
 
-            Console.WriteLine(counter);
+            if (counter > 0)
+            {
+                Console.WriteLine($"{output}");
+            }
+            else
+            {
+                Console.WriteLine("no");
+            }
+
 
         }
 
-        static void equalSum(int counter, int[] input, int mid, int leftSum, int rightSum)
+        static int equalSum(ref int counter, int[] input, int mid, int leftSum, int rightSum,ref int output)
         {
-
-
-            for (int j = 0; j < input[mid]; j++)
+            for (int j = 0; j < mid; j++)
             {
                 leftSum += input[j];
             }
 
-            for (int j = input.Length - 1; j > input[mid]; j--)
+            for (int j = input.Length - 1; j > mid; j--)
             {
                 rightSum += input[j];
             }
@@ -44,13 +51,10 @@ namespace project6
             if (leftSum == rightSum)
             {
                 counter++;
+                output = mid;
+                return output;
             }
-            //Console.WriteLine(leftSum);
-            //Console.WriteLine(rightSum);
-
-
-
-
+            return counter;
         }
     }
 }
