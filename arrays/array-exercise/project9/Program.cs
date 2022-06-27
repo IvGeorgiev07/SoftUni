@@ -10,25 +10,37 @@ namespace project9
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            string input = Console.ReadLine();
-            
+
+
             int maxNum = 0;
             int dna = 0;
             int index = 0;
             int min = int.MaxValue;
+            int sum = 0;
+            
 
-            while (input != "Clone them!")
+            while (true)
             {
-                int sum = 0;
-                int[] ints = Console.ReadLine().Split("!").Select(int.Parse).ToArray();
+                string input = Console.ReadLine();
+                if(input == "Clone them!")
+                {
+                    break;
+                }
+                else
+                {
+                    continue;
+                }
 
-                sumOfDNA(maxNum, index, ints, sum, dna, n);
+                int[] ints = input.Split("!").Select(int.Parse).ToArray();
+
+                sumOfDNA(maxNum, index, ints, ref sum, dna, n);
 
                 sequenceOfOne(index, ints, dna, n);
 
-                if(index < min)
+                if (index < min)
                 {
                     min = index;
+                    
                 }
             }
 
@@ -38,16 +50,16 @@ namespace project9
 
         private static void sequenceOfOne(int index, int[] ints, int dna, int n)
         {
-            for(int i = 0; i < n-1; i++)
+            for (int i = 0; i < n - 1; i++)
             {
-                if(ints[i] == ints[i + 1])
+                if (ints[i] == ints[i + 1])
                 {
                     index = i;
                 }
             }
         }
 
-        private static void sumOfDNA(int maxNum, int index, int[] ints, int sum, int dna, int n)
+        private static void sumOfDNA(int maxNum, int index, int[] ints, ref int sum, int dna, int n)
         {
             for (int i = 0; i < n; i++)
             {
