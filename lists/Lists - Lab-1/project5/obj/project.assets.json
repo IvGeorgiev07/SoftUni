@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL XPS\\Desktop\\SoftUni\\SoftUni\\lists\\Lists - Lab-1\\project5\\project5.csproj",
+      "projectUniqueName": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\lists\\Lists - Lab-1\\project5\\project5.csproj",
       "projectName": "project5",
-      "projectPath": "C:\\Users\\DELL XPS\\Desktop\\SoftUni\\SoftUni\\lists\\Lists - Lab-1\\project5\\project5.csproj",
+      "projectPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\lists\\Lists - Lab-1\\project5\\project5.csproj",
       "packagesPath": "C:\\Users\\DELL XPS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL XPS\\Desktop\\SoftUni\\SoftUni\\lists\\Lists - Lab-1\\project5\\obj\\",
+      "outputPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\lists\\Lists - Lab-1\\project5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

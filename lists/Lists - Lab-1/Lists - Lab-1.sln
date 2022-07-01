@@ -7,15 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project1", "project1\projec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project2", "project2\project2.csproj", "{A3507EFF-9A3E-44DA-BBB7-0D84A3465F04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project3", "project3\project3.csproj", "{2256D5D4-9156-4817-99CD-CEBF8ACE73A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project3", "project3\project3.csproj", "{2256D5D4-9156-4817-99CD-CEBF8ACE73A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project4", "project4\project4.csproj", "{D9BED6AA-B57B-4E5E-9301-6195C0162F4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project4", "project4\project4.csproj", "{D9BED6AA-B57B-4E5E-9301-6195C0162F4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project5", "project5\project5.csproj", "{36B5AD4C-1C17-4356-AB56-C1B91472964E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project5", "project5\project5.csproj", "{36B5AD4C-1C17-4356-AB56-C1B91472964E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project6", "project6\project6.csproj", "{A04EB570-C732-4E9B-94B0-42C6C3191809}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project6", "project6\project6.csproj", "{A04EB570-C732-4E9B-94B0-42C6C3191809}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project7", "project7\project7.csproj", "{A6ABA833-EF0D-4FF6-A2A3-2C00E02DFC56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "project7", "project7\project7.csproj", "{A6ABA833-EF0D-4FF6-A2A3-2C00E02DFC56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
