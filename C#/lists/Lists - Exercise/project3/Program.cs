@@ -10,40 +10,41 @@ namespace project3
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            List<string> input = Console.ReadLine().Split().ToList();
+            List<string> input = new List<string>();
             List<string> attendanceList = new List<string>();
-            int counter = 1;
-            
+            int counter = 0;
 
-            while (true)
-            {  
+
+            while (counter < n)
+            {
+                input = Console.ReadLine().Split().ToList();
+                counter++;
 
                 if (input[2] == "going!")
                 {
-                    attendanceList.Add(input[0]);
-                }
-                else if(input[2] == "not")
-                {
-                    for(int i = 0; i < attendanceList.Count; i++)
+                    if (attendanceList.Contains(input[0]) == false)
                     {
-                        if(input[0] != attendanceList[i])
-                        {
-                            Console.WriteLine($"{input[0]} is not in the list!");
-                        }
-                        else if (input[0] == attendanceList[i])
-                        {
-                            attendanceList.Remove(input[0]);
-                        }
+                        attendanceList.Add(input[0]);
+                    }
+                    else
+                    {
+                        Console.WriteLine($"{input[0]} is already in the list!");
                     }
                 }
-                input = Console.ReadLine().Split().ToList();
-                counter++;
-                if (counter > n)
+                else if (input[2] == "not")
                 {
-                    break;
+                    if (attendanceList.Contains(input[0]) == false)
+                    {
+                        Console.WriteLine($"{input[0]} is not in the list!");
+
+                    }
+                    else if (attendanceList.Contains(input[0]) == true)
+                    {
+                        attendanceList.Remove(input[0]);
+                    }
                 }
             }
-            for(int i = 0; i < attendanceList.Count; i++)
+            for (int i = 0; i < attendanceList.Count; i++)
             {
                 Console.WriteLine(attendanceList[i]);
             }
