@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\": {},
+    "C:\\Users\\Vanku\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\project4.csproj",
+      "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\project4.csproj",
       "projectName": "project4",
-      "projectPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\project4.csproj",
-      "packagesPath": "C:\\Users\\DELL XPS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\obj\\",
+      "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\project4.csproj",
+      "packagesPath": "C:\\Users\\Vanku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\lists\\Lists - Exercise\\project4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vanku\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

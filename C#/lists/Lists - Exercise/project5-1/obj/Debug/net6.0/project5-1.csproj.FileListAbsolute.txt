@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\bin\Debug\net6.0\project5-1.exe
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\bin\Debug\net6.0\project5-1.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\bin\Debug\net6.0\project5-1.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\bin\Debug\net6.0\project5-1.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\bin\Debug\net6.0\project5-1.pdb
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\refint\project5-1.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.pdb
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\project5-1.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\lists\Lists - Exercise\project5-1\obj\Debug\net6.0\ref\project5-1.dll

@@ -16,12 +16,11 @@ namespace project4
                 if (input2[0] == "Add")
                 {
                     input.Add(int.Parse(input2[1]));
-                    //Console.WriteLine(String.Join(" ", input));
-                    
+                    //Console.WriteLine(String.Join(" ", input));   
                 }
                 else if (input2[0] == "Insert")
                 {
-                    if (int.Parse(input2[2]) < input.Count)
+                    if (int.Parse(input2[2]) < input.Count && int.Parse(input2[2]) >=0)
                     {
                         insertNum(input, input2);
                     }
@@ -34,7 +33,7 @@ namespace project4
                 }
                 else if (input2[0] == "Remove")
                 {
-                    if(int.Parse(input2[1]) < input.Count)
+                    if(int.Parse(input2[1]) < input.Count && int.Parse(input2[1]) >= 0)
                     {
                         input.RemoveAt(int.Parse(input2[1]));
                     }
