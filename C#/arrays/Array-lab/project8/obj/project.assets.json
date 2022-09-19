@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project8\\project8.csproj",
+      "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project8\\project8.csproj",
       "projectName": "project8",
-      "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project8\\project8.csproj",
+      "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project8\\project8.csproj",
       "packagesPath": "C:\\Users\\Vanku\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project8\\obj\\",
+      "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
