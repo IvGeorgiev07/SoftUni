@@ -1,0 +1,15 @@
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\bin\Debug\net6.0\Project5.1.exe
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\bin\Debug\net6.0\Project5.1.deps.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\bin\Debug\net6.0\Project5.1.runtimeconfig.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\bin\Debug\net6.0\Project5.1.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\bin\Debug\net6.0\Project5.1.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.csproj.AssemblyReference.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.AssemblyInfoInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.AssemblyInfo.cs
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.csproj.CoreCompileInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\refint\Project5.1.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\Project5.1.genruntimeconfig.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Arrays - Lab\Project5.1\obj\Debug\net6.0\ref\Project5.1.dll
