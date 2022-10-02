@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project5\\project5.csproj": {}
+    "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project5\\project5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project5\\project5.csproj": {
+    "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project5\\project5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project5\\project5.csproj",
+        "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project5\\project5.csproj",
         "projectName": "project5",
-        "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project5\\project5.csproj",
+        "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project5\\project5.csproj",
         "packagesPath": "C:\\Users\\Vanku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\arrays\\Array-lab\\project5\\obj\\",
+        "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C#\\arrays\\Array-lab\\project5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
