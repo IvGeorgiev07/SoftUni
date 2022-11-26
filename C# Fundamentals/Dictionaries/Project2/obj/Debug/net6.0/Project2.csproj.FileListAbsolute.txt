@@ -1,0 +1,15 @@
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\bin\Debug\net6.0\Project2.exe
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\bin\Debug\net6.0\Project2.deps.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\bin\Debug\net6.0\Project2.runtimeconfig.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\bin\Debug\net6.0\Project2.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\bin\Debug\net6.0\Project2.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.csproj.AssemblyReference.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.AssemblyInfoInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.AssemblyInfo.cs
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.csproj.CoreCompileInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\refint\Project2.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\Project2.genruntimeconfig.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Fundamentals\Dictionaries\Project2\obj\Debug\net6.0\ref\Project2.dll
