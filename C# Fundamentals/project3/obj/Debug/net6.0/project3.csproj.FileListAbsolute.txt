@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\bin\Debug\net6.0\project3.exe
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\bin\Debug\net6.0\project3.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\bin\Debug\net6.0\project3.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\bin\Debug\net6.0\project3.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\bin\Debug\net6.0\project3.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\refint\project3.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\project3.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\project3\obj\Debug\net6.0\ref\project3.dll
