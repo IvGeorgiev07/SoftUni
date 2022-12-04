@@ -1,0 +1,5 @@
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\FinalExam\obj\Debug\net6.0\FinalExam.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\FinalExam\obj\Debug\net6.0\FinalExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\FinalExam\obj\Debug\net6.0\FinalExam.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# Fundamentals\FinalExam\obj\Debug\net6.0\FinalExam.csproj.CoreCompileInputs.cache
