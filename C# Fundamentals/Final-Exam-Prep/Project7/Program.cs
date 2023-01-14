@@ -5,48 +5,101 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Numerics;
 
-namespace Project7
+namespace FinalExam
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string inputText = Console.ReadLine();
-            StringBuilder code = new StringBuilder(inputText);
+            string key = Console.ReadLine();
 
-            string[] command = Console.ReadLine().Split('|');
+            StringBuilder activationKey = new StringBuilder(key);
 
-            while (command[0] != "Decode")
+            string input;
+
+            while ((input = Console.ReadLine()) != "Finish")
             {
-                if (command[0] == "Move")
+                string[] cmd = input.Split();
+
+                if (cmd[0] == "Check")
                 {
-                    int n = int.Parse(command[1]);
-                    if (n <= code.Length - 1)
+                    if (activationKey.ToString().Contains(cmd[1]))
                     {
-                        char[] temp = code.ToString().Take(n).ToArray();
-                        string tempStr = new string(temp);
-                        code.Remove(0, n);
-                        code.Append(tempStr);
+                        Console.WriteLine($"Message contains {cmd[1]}");
+                    }
+                    else
+                    {
+                        Console.WriteLine($"Message doesn't contain {cmd[1]}");
                     }
                 }
-                else if (command[0] == "Insert")
+                else if (cmd[0] == "Make")
                 {
-                    int index = int.Parse(command[1]);
-                    string value = command[2];
+                    if (cmd[1] == "Upper")
+                    {
+                        string text = activationKey.ToString().ToUpper();
+                        activationKey.Clear();
+                        activationKey.Append(text);
+                        Console.WriteLine(activationKey);
+                    }
+                    else if (cmd[1] == "Lower")
+                    {
 
-                    code.Insert(index, value);
+                        string text = activationKey.ToString().ToLower();
+                        activationKey.Clear();
+                        activationKey.Append(text);
+                        Console.WriteLine(activationKey);
+                    }
                 }
-                else if (command[0] == "ChangeAll")
+                else if (cmd[0] == "Cut")
                 {
-                    string substring = command[1];
-                    string replacement = command[2];
-
-                    code.Replace(substring, replacement);
+                    int startIndex = int.Parse(cmd[1]);
+                    int endIndex = int.Parse(cmd[2]);
+                    if (startIndex >= 0 && endIndex >= 0 && startIndex <= activationKey.Length - 1 && endIndex <= activationKey.Length - 1)
+                    {
+                        activationKey.Remove(startIndex, endIndex);
+                        Console.WriteLine(activationKey);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid indices!");
+                    }
 
                 }
-                command = Console.ReadLine().Split('|');
+                else if (cmd[0] == "Replace")
+                {
+                    string substring = cmd[1];
+                    string replacement = cmd[2];
+
+                    activationKey.Replace(substring, replacement);
+                    Console.WriteLine(activationKey);
+
+                }
+                else if (cmd[0] == "Sum")
+                {
+
+                    int startIndex = int.Parse(cmd[1]);
+                    int endIndex = int.Parse(cmd[2]);
+                    int sum = 0;
+                    if (startIndex >= 0 && endIndex >= 0 && startIndex <= activationKey.Length - 1 && endIndex <= activationKey.Length - 1)
+                    {
+                        string sb = activationKey.ToString().Substring(startIndex, endIndex);
+                        char[] chars = sb.ToCharArray();
+
+                        for (int i = 0; i < chars.Length; i++)
+                        {
+                            int value = (int)chars[i];
+                            sum += value;
+                        }
+                        Console.WriteLine(sum);
+                    }
+                    else
+                    {
+                        Console.WriteLine("Invalid indices!");
+                    }
+
+                }
+
             }
-            Console.WriteLine($"The decrypted message is: {code}");
         }
     }
 }
