@@ -1,7 +1,14 @@
-﻿namespace ShoeStore
+﻿using System;
+using System.Text;
+
+namespace ShoeStore
 {
     public class Shoe
     {
+        private string name;
+        private string type;
+        private double size;
+        private string material;
         public Shoe(string brand, string type, double size, string material)
         {
             Brand = brand;
@@ -17,8 +24,9 @@
 
         public override string ToString()
         {
-            string text = $"Size {Size}, {Material} {Brand} {Type} shoe.";
-            return text;
+            var sb = new StringBuilder();
+              sb.AppendLine($"Size {Size}, {Material} {Brand} {Type} shoe.");
+            return sb.ToString().Trim();
         }
     }
 }
