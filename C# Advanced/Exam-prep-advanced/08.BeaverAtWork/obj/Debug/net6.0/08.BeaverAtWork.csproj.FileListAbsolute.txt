@@ -1,0 +1,15 @@
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\bin\Debug\net6.0\08.BeaverAtWork.exe
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\bin\Debug\net6.0\08.BeaverAtWork.deps.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\bin\Debug\net6.0\08.BeaverAtWork.runtimeconfig.json
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\bin\Debug\net6.0\08.BeaverAtWork.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\bin\Debug\net6.0\08.BeaverAtWork.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.csproj.AssemblyReference.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.AssemblyInfoInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.AssemblyInfo.cs
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.csproj.CoreCompileInputs.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\refint\08.BeaverAtWork.dll
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.pdb
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\08.BeaverAtWork.genruntimeconfig.cache
+C:\Users\DELL XPS\Desktop\GitHub\SoftUni\C# Advanced\Exam-prep-advanced\08.BeaverAtWork\obj\Debug\net6.0\ref\08.BeaverAtWork.dll

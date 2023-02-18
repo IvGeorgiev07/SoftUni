@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
@@ -7,90 +6,82 @@ namespace ShoeStore
 {
     public class ShoeStore
     {
-        private List<Shoe> shoes;
+        private readonly List<Shoe> shoes;
         public ShoeStore(string name, int storageCapacity)
         {
-            Shoes = new List<Shoe>();
+            shoes = new List<Shoe>();
             Name = name;
             StorageCapacity = storageCapacity;
         }
 
-        public List<Shoe> Shoes { get; init; }
+        public IReadOnlyList<Shoe> Shoes => shoes;
         public string Name { get; set; }
         public int StorageCapacity { get; set; }
         public int Count { get { return Shoes.Count; } }
 
-        public string AddShoe(Shoe shoe)
+        public string StockList(double size, string type)
         {
-            string text = string.Empty;
-            if(StorageCapacity == 0)
+            List<Shoe> stockList = this.shoes.Where(s => s.Size == size && s.Type == type).ToList();
+
+            StringBuilder sb = new StringBuilder();
+            if (stockList.Count == 0)
             {
-                text = $"No more space in the storage room";
+                sb.AppendLine("No matches found!");
             }
-            else if(StorageCapacity > 0)
+            else
             {
-                Shoes.Add(shoe);
-                text = $"Successfully added {shoe.Type} {shoe.Material} pair of shoes to the store.";
-                StorageCapacity--;
+                sb.AppendLine($"Stock list for size {size} - {type} shoes:");
+                foreach (Shoe shoe1 in stockList)
+                {
+                    sb.AppendLine(shoe1.ToString());
+                }
             }
-            return text.Trim() ;
+
+            return sb.ToString().TrimEnd();
+        }
+
+
+        public Shoe GetShoeBySize(double size) => this.shoes.FirstOrDefault(s => s.Size == size);
+
+        public List<Shoe> GetShoesByType(string type)
+        {
+            List<Shoe> listToReturn = new List<Shoe>();
+            foreach (Shoe shoe in this.shoes)
+            {
+                if (shoe.Type == type.ToLower())
+                {
+                    listToReturn.Add(shoe);
+                }
+            }
+            return listToReturn;
         }
 
         public int RemoveShoes(string material)
         {
-            int counter = 0;
-            for (int i = 0; i < Shoes.Count; i++)
+            int removedShoes = 0;
+
+            for (int i = 0; i < shoes.Count; i++)
             {
-                if (Shoes[i].Material == material)
+                if (shoes[i].Material == material.ToLower())
                 {
-                    Shoes.Remove(Shoes[i]);
-                    counter++;
-                    i = 0;
+                    shoes.RemoveAt(i--);
+                    removedShoes++;
                 }
             }
-            return counter;
+
+            return removedShoes;
         }
 
-        public List<Shoe> GetShoesByType(string type)
+        public string AddShoe(Shoe shoe)
         {
-            List<Shoe> sortedShoes = new List<Shoe>();
-            
-            foreach (var shoe in Shoes)
+            if (StorageCapacity == shoes.Count)
             {
-                if(shoe.Type == type.ToLower())
-                {
-                    sortedShoes.Add(shoe);
-                }
+                return "No more space in the storage room.";
             }
-            return sortedShoes;
-        }
+        
 
-        public Shoe GetShoeBySize(double size)
-        {
-            Shoe firstSHoe = Shoes.FirstOrDefault(x=> x.Size == size);
-            return firstSHoe;
-        }
-
-        public string StockList(double size, string type)
-        {
-            StringBuilder sb = new StringBuilder();
-            int counter = 0;
-            sb.AppendLine($"Stock list for size {size} - {type} shoes:");
-            foreach (var shoe in Shoes)
-            {
-                
-                if (shoe.Size == size && shoe.Type == type)
-                {
-                    sb.AppendLine($"Size {shoe.Size}, {shoe.Material} {shoe.Brand} {shoe.Type} shoe.");
-                    counter++;
-                }
-            }
-            if(counter == 0)
-            {
-                sb.Clear();
-                sb.AppendLine("No matches found!");
-            }
-            return sb.ToString().Trim();
+            shoes.Add(shoe);
+            return $"Successfully added {shoe.Type} {shoe.Material} pair of shoes to the store.";
         }
     }
 }
