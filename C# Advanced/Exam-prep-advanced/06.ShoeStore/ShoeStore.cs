@@ -6,7 +6,8 @@ using System.Text;
 namespace ShoeStore
 {
     public class ShoeStore
-    {        
+    {
+        private List<Shoe> shoes;
         public ShoeStore(string name, int storageCapacity)
         {
             Shoes = new List<Shoe>();
