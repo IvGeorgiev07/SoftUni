@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\bin\Debug\net6.0\SoftUniKindergarten.exe
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\bin\Debug\net6.0\SoftUniKindergarten.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\bin\Debug\net6.0\SoftUniKindergarten.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\bin\Debug\net6.0\SoftUniKindergarten.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\bin\Debug\net6.0\SoftUniKindergarten.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\refint\SoftUniKindergarten.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\SoftUniKindergarten.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\12.Exam_problem3\obj\Debug\net6.0\ref\SoftUniKindergarten.dll

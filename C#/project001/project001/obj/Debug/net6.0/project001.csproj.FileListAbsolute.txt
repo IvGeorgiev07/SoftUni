@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\bin\Debug\net6.0\project001.exe
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\bin\Debug\net6.0\project001.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\bin\Debug\net6.0\project001.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\bin\Debug\net6.0\project001.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\bin\Debug\net6.0\project001.pdb
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\refint\project001.dll
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.pdb
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\project001.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C#\project001\project001\obj\Debug\net6.0\ref\project001.dll

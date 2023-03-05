@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\bin\Debug\net6.0\11.Exam_problem2.exe
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\bin\Debug\net6.0\11.Exam_problem2.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\bin\Debug\net6.0\11.Exam_problem2.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\bin\Debug\net6.0\11.Exam_problem2.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\bin\Debug\net6.0\11.Exam_problem2.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\refint\11.Exam_problem2.dll
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\11.Exam_problem2.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C# Advanced\Exam-prep-advanced\11.Exam_problem2\obj\Debug\net6.0\ref\11.Exam_problem2.dll
