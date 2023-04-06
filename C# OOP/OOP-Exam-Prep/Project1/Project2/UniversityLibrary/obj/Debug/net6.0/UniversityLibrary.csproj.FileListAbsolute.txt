@@ -1,0 +1,17 @@
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.exe
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CopyComplete
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project2\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
