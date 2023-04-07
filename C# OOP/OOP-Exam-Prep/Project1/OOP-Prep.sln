@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityLibrary", "Projec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityLibrary.Test", "Project2\UniversityLibrary.Test\UniversityLibrary.Test.csproj", "{ADA19BF7-6B4D-4FA8-9310-240959713C5A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingApp", "Project3\BookingApp.csproj", "{52347D65-7A8B-4911-B7C5-42192465121B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ADA19BF7-6B4D-4FA8-9310-240959713C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADA19BF7-6B4D-4FA8-9310-240959713C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADA19BF7-6B4D-4FA8-9310-240959713C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52347D65-7A8B-4911-B7C5-42192465121B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52347D65-7A8B-4911-B7C5-42192465121B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52347D65-7A8B-4911-B7C5-42192465121B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52347D65-7A8B-4911-B7C5-42192465121B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

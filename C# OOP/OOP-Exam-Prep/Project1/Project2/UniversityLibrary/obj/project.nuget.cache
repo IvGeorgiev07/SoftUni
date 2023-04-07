@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "R/lJxA8RelEhs0rzdHRcc0OPwAtkNqk1dJMBRBKaRfjnomgoftECZkhJLCAeiZNO2YT02lEzhtgEOa6TQlTztA==",
+  "dgSpecHash": "d945iGCfFx8zwNW+f4DdImI0ixCioco3qZ5N1M1PTe2zdWnjLNG7LhYj5kXsJpEoaQM79IlbrboFnzzTSyo1Dw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj",
+  "projectFilePath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Vanku\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\Vanku\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL XPS\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\DELL XPS\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
   ],
   "logs": []
 }
