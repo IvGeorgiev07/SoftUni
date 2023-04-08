@@ -1,18 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "bydqD0VJT7xV4g0OEWVGH6BtnNZ3j14GxDZkJI6LtGu+7z9c/Q5FFzGtLzB3yfZZJzEEXyXZfeYNHpgwoEqrUw==",
+  "dgSpecHash": "gmkcugaLFgIRrL9Z/ifNfLzexGIbTod7aApzEkPEp6M6qeAy0ORh7ruskuXEyNEAH8dXEBVMkOIsbQCxj/YLKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project1\\UniversityCompetition.csproj",
+  "projectFilePath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project1\\UniversityCompetition.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.13\\microsoft.extensions.configuration.fileextensions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.13\\microsoft.extensions.configuration.json.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.configuration.usersecrets\\3.1.13\\microsoft.extensions.configuration.usersecrets.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.13\\microsoft.extensions.fileproviders.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.13\\microsoft.extensions.fileproviders.physical.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.13\\microsoft.extensions.filesystemglobbing.3.1.13.nupkg.sha512",
+    "C:\\Users\\Vanku\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
   ],
   "logs": []
 }

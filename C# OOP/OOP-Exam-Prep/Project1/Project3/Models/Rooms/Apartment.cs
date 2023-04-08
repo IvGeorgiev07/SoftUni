@@ -8,7 +8,8 @@ namespace BookingApp.Models.Rooms
 {
     public class Apartment : Room
     {
-        public Apartment() : base(6)
+        private const int bedCapacity = 6;
+        public Apartment() : base(bedCapacity)
         {
         }
     }

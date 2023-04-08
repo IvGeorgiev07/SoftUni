@@ -1,0 +1,14 @@
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.exe
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.runtimeconfig.dev.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\bin\Debug\netcoreapp3.1\BookingApp2.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project3.1\obj\Debug\netcoreapp3.1\BookingApp2.genruntimeconfig.cache

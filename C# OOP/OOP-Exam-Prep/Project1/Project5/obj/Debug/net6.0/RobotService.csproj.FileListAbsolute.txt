@@ -1,0 +1,15 @@
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\bin\Debug\net6.0\RobotService.exe
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\bin\Debug\net6.0\RobotService.deps.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\bin\Debug\net6.0\RobotService.runtimeconfig.json
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\bin\Debug\net6.0\RobotService.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\bin\Debug\net6.0\RobotService.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.csproj.AssemblyReference.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.AssemblyInfoInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.AssemblyInfo.cs
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.csproj.CoreCompileInputs.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\refint\RobotService.dll
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.pdb
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\RobotService.genruntimeconfig.cache
+C:\Users\Vanku\Desktop\SoftUni\C# OOP\OOP-Exam-Prep\Project1\Project5\obj\Debug\net6.0\ref\RobotService.dll

@@ -1,6 +1,7 @@
 ﻿using BookingApp.Models.Bookings.Contracts;
 using BookingApp.Models.Hotels.Contacts;
 using BookingApp.Models.Rooms.Contracts;
+using BookingApp.Repositories;
 using BookingApp.Repositories.Contracts;
 using BookingApp.Utilities.Messages;
 using System;
@@ -11,12 +12,14 @@ using System.Threading.Tasks;
 
 namespace BookingApp.Models.Hotels
 {
-    internal class Hotel : IHotel
+    public class Hotel : IHotel
     {
         public Hotel(string fullName, int category)
         {
             FullName= fullName;
             Category= category;
+            Rooms = new RoomRepository();
+            Bookings= new BookingRepository();
         }
         private string fullName;
         public string FullName

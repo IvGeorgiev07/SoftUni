@@ -3987,23 +3987,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL XPS\\.nuget\\packages\\": {},
+    "C:\\Users\\Vanku\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\UniversityLibrary.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\UniversityLibrary.Test.csproj",
       "projectName": "UniversityLibrary.Test",
-      "projectPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\UniversityLibrary.Test.csproj",
-      "packagesPath": "C:\\Users\\DELL XPS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\obj\\",
+      "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\UniversityLibrary.Test.csproj",
+      "packagesPath": "C:\\Users\\Vanku\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\DELL XPS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vanku\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4012,14 +4012,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj": {
-              "projectPath": "C:\\Users\\DELL XPS\\Desktop\\GitHub\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj"
+            "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj": {
+              "projectPath": "C:\\Users\\Vanku\\Desktop\\SoftUni\\C# OOP\\OOP-Exam-Prep\\Project1\\Project2\\UniversityLibrary\\UniversityLibrary.csproj"
             }
           }
         }
